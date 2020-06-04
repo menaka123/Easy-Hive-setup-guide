@@ -1,1 +1,0 @@
-# Easy-Hive-setup-guide
